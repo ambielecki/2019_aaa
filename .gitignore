@@ -11,3 +11,5 @@ npm-debug.log
 yarn-error.log
 /junk
 /.idea
+/public/css/app.css
+/public/js/app.js
